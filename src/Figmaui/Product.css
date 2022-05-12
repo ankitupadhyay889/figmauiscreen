@@ -1,0 +1,47 @@
+.cona{
+    margin: 105px auto;
+}
+
+.sear{
+    border-radius: 20px;
+    left: 900px;
+}
+
+.add{
+    border-radius: 100px;
+    left: 1150px;
+}
+/* 
+.po{
+    background-color: white;
+} */
+
+.koimg img{
+    width: 57px;
+    height: 60px;
+}
+
+.pol{
+    background-color: tomato;
+}
+
+.pagination a {
+    color: black;
+    float: right;
+    padding: 8px 16px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.pagination .kopla{
+    background-color: red;
+}
+
+
+@media screen and (max-width:992px){
+    .web{
+        width: 500px;
+        font-size: 40px;
+    }
+}
+
